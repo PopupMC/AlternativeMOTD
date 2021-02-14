@@ -2,6 +2,8 @@
 
 Generates my servers MOTD!
 
+![MOTD Example](https://i.imgur.com/DCzoK21.png)
+
 ```
 ┇ PopupMC ⬡<splash text here>⬡
 ┇ Welcome ⬡mcMMO⬡ ⬡SMP⬡ ⬡Economy⬡
