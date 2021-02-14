@@ -1,0 +1,8 @@
+name: AlternativeMOTD
+version: 1.0
+main: com.popupmc.alternativemotd.AlternativeMOTD
+description: AlternativeMOTD
+author: junebug12851
+api-version: 1.15
+depend:
+  - ProtocolLib
